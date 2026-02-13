@@ -1,0 +1,102 @@
+{
+    "Python": {
+        "resource": "Scientific Computing with Python",
+        "link": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+        "type": "Course"
+    },
+    "JavaScript": {
+        "resource": "JavaScript Algorithms and Data Structures",
+        "link": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+        "type": "Course"
+    },
+    "React": {
+        "resource": "Front End Development Libraries",
+        "link": "https://www.freecodecamp.org/learn/front-end-development-libraries/",
+        "type": "Course"
+    },
+    "Node.js": {
+        "resource": "Back End Development and APIs",
+        "link": "https://www.freecodecamp.org/learn/back-end-development-and-apis/",
+        "type": "Course"
+    },
+    "SQL": {
+        "resource": "Learn SQL Basics for Data Science (Coursera)",
+        "link": "https://www.coursera.org/learn/sql-for-data-science",
+        "type": "Course"
+    },
+    "Git": {
+        "resource": "Version Control with Git (Udacity/Coursera)",
+        "link": "https://www.coursera.org/learn/version-control-with-git",
+        "type": "Course"
+    },
+    "Docker": {
+        "resource": "Docker for Beginners (FreeCodeCamp - YouTube)",
+        "link": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+        "type": "Tutorial"
+    },
+    "Kubernetes": {
+        "resource": "Introduction to Kubernetes (edX)",
+        "link": "https://www.edx.org/course/introduction-to-kubernetes",
+        "type": "Course"
+    },
+    "AWS": {
+        "resource": "AWS Cloud Practitioner Essentials (Amazon)",
+        "link": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+        "type": "Course"
+    },
+    "HTML": {
+        "resource": "Responsive Web Design",
+        "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "type": "Course"
+    },
+    "CSS": {
+        "resource": "Responsive Web Design",
+        "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "type": "Course"
+    },
+    "Machine Learning": {
+        "resource": "Machine Learning by Andrew Ng (Coursera)",
+        "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "type": "Course"
+    },
+    "Data Visualization": {
+        "resource": "Data Visualization with Python (FreeCodeCamp)",
+        "link": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+        "type": "Course"
+    },
+    "Cybersecurity": {
+        "resource": "Introduction to Cybersecurity (Cisco Networking Academy)",
+        "link": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+        "type": "Course"
+    },
+    "Networking": {
+        "resource": "Computer Networking (Georgia Tech - Udacity)",
+        "link": "https://www.udacity.com/course/computer-networking--ud436",
+        "type": "Course"
+    },
+    "Linux": {
+        "resource": "Introduction to Linux (edX)",
+        "link": "https://www.edx.org/course/introduction-to-linux",
+        "type": "Course"
+    },
+    "Django": {
+        "resource": "Django for Everybody (Coursera)",
+        "link": "https://www.coursera.org/specializations/django",
+        "type": "Course"
+    },
+    "Ethical Hacking": {
+        "resource": "TryHackMe - Jr Penetration Tester",
+        "link": "https://tryhackme.com/path/outline/jr-penetration-tester",
+        "type": "Practice"
+    },
+    "TensorFlow": {
+        "resource": "TensorFlow Developer Certificate (Coursera)",
+        "link": "https://www.coursera.org/professional-certificates/tensorflow-in-practice",
+        "type": "Certification"
+    },
+    "Scikit-learn": {
+        "resource": "Machine Learning with Python (FreeCodeCamp)",
+        "link": "https://www.freecodecamp.org/learn/machine-learning-with-python/",
+        "type": "Course"
+    }
+}

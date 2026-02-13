@@ -1,0 +1,77 @@
+{
+    "Full Stack Developer": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "SQL",
+        "Git",
+        "REST API",
+        "Docker",
+        "AWS"
+    ],
+    "Data Scientist": [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn",
+        "TensorFlow",
+        "Statistics",
+        "Data Visualization",
+        "Machine Learning",
+        "Jupyter Notebook"
+    ],
+    "DevOps Engineer": [
+        "Linux",
+        "BASH",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Jenkins",
+        "Terraform",
+        "CI/CD",
+        "Git",
+        "Networking"
+    ],
+    "Cybersecurity Analyst": [
+        "Networking",
+        "Linux",
+        "Python",
+        "SQL",
+        "Ethical Hacking",
+        "Firewalls",
+        "Security Information and Event Management (SIEM)",
+        "Penetration Testing",
+        "Cryptography",
+        "Risk Assessment"
+    ],
+    "Python Developer": [
+        "Python",
+        "Django",
+        "Flask",
+        "SQL",
+        "REST API",
+        "Git",
+        "Docker",
+        "Unit Testing",
+        "AWS"
+    ],
+    "UI/UX Designer": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "Prototyping",
+        "User Research",
+        "Wireframing",
+        "HTML",
+        "CSS",
+        "Accessibility"
+    ]
+}
