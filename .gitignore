@@ -1,0 +1,39 @@
+# Standard .gitignore for SkillSight AI
+
+# Node/Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/
+.idea/
+*.sw?
+.env
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+db.sqlite3-journal
+media/
+static/
+.venv/
+env/
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# Recursive matches
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/db.sqlite3
+**/node_modules/
+**/env/
+**/venv/
+**/media/
+**/static/
